@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou milena
 
-<!--
-**MilenaSantos16/MilenaSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Iniciante em programação | Explorando o mundo da tecnologia**
 
-Here are some ideas to get you started:
+> 🚀 Aprendendo, criando e evoluindo um código de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+
+🎓 Atualmente estou começando minha jornada na programação.
+
+🌱 Estou aprendendo novas tecnologias, desenvolvendo meus primeiros projetos e tentando transformar ideias em código
+
+🎯 **Meu objetivo:** evoluir constantemente e, no futuro, trabalhar profissionalmente com tecnologia.
+
+---
+
+## 🚀 O que estou fazendo agora?
+
+📚 Estudando programação
+🧠 Aprendendo com meus erros
+💡 Colocando conhecimentos em prática
+📈 Evoluindo um pouco todos os dias
+
+---
+
+## 🎯 Meu objetivo
+
+```text
+Aprender → Praticar → Criar → Errar → Melhorar → Evoluir 🚀
+```
+
+---
+
+## 📫 Contato
+
+
+
+📧 E-mail: [milenadejesudossantos14@gmail.com]
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+**"O melhor código é aquele que você continua aprendendo a escrever."** 💻🔥
+
+</div>
+
+
