@@ -1,5 +1,3 @@
-Claro! 😎 Eu deixaria mais **bonito, organizado e com mais personalidade**, sem parecer que você está tentando se passar por uma programadora experiente.
-
 # 👋 Oi! Eu sou a Milena
 
 💻 **Iniciante em programação | Explorando o mundo da tecnologia**
