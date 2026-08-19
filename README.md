@@ -1,31 +1,49 @@
-# 👋 Olá, eu sou milena
+Claro! 😎 Eu deixaria mais **bonito, organizado e com mais personalidade**, sem parecer que você está tentando se passar por uma programadora experiente.
+
+# 👋 Oi! Eu sou a Milena
 
 💻 **Iniciante em programação | Explorando o mundo da tecnologia**
 
-> 🚀 Aprendendo, criando e evoluindo um código de cada vez.
+> 🚀 *Aprendendo, criando e evoluindo um código de cada vez.*
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🌸 Sobre mim
 
-🎓 Atualmente estou começando minha jornada na programação.
+🎓 Estou começando minha jornada no mundo da programação.
 
-🌱 Estou aprendendo novas tecnologias, desenvolvendo meus primeiros projetos e tentando transformar ideias em código
+🌱 Atualmente, estou aprendendo os fundamentos do desenvolvimento e descobrindo novas tecnologias.
+
+💡 Gosto de transformar ideias em projetos e aprender na prática.
 
 🎯 **Meu objetivo:** evoluir constantemente e, no futuro, trabalhar profissionalmente com tecnologia.
 
 ---
 
-## 🚀 O que estou fazendo agora?
+## 🚀 Atualmente
 
 📚 Estudando programação
-🧠 Aprendendo com meus erros
-💡 Colocando conhecimentos em prática
+🧠 Aprendendo com cada desafio
+💡 Criando meus primeiros projetos
+🔎 Explorando novas tecnologias
 📈 Evoluindo um pouco todos os dias
 
 ---
 
-## 🎯 Meu objetivo
+## 🛠️ Tecnologias que estou aprendendo
+
+```text
+HTML       █████░░░░░░
+CSS        ████░░░░░░░
+JavaScript ██░░░░░░░░░
+Git/GitHub ███░░░░░░░░
+```
+
+> 🌱 Esses níveis representam apenas o meu momento atual de aprendizado. A ideia é vê-los evoluir com o tempo!
+
+---
+
+## 🎯 Minha jornada
 
 ```text
 Aprender → Praticar → Criar → Errar → Melhorar → Evoluir 🚀
@@ -33,20 +51,27 @@ Aprender → Praticar → Criar → Errar → Melhorar → Evoluir 🚀
 
 ---
 
-## 📫 Contato
+## 📂 Projetos
 
+🔨 **Em construção...**
 
+Estou criando meus primeiros projetos e colocando em prática tudo o que estou aprendendo.
 
-📧 E-mail: [milenadejesudossantos14@gmail.com]
+---
+
+## 📫 Vamos nos conectar?
+
+📧 **E-mail:** [milenadejesudossantos14@gmail.com](mailto:milenadejesudossantos14@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ✨ Obrigada por visitar meu perfil!
 
-**"O melhor código é aquele que você continua aprendendo a escrever."** 💻🔥
+💜 *Sempre aprendendo. Sempre evoluindo.*
 
 </div>
+
 
 
